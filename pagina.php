@@ -1,4 +1,5 @@
 <?php
+$hola="hola";
   function curlFile($url,$proxy_ip,$proxy_port,$login_passw)
 {
     $ch = curl_init();
